@@ -1,0 +1,20 @@
+h5{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+.card{
+    padding: 10%;
+    border: solid 5px;
+    border-color: black;
+    background-image: linear-gradient(white,grey);
+}
+body{
+    background-color: rgb(11, 71, 73);
+}
+h1{
+    text-align:center;
+    color: aliceblue;
+    padding-top: 5%;
+}
